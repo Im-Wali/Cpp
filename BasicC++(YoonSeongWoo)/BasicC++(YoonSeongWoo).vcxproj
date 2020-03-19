@@ -148,6 +148,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="HelllowWorld.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="PracticeGugudan.cpp" />
+    <ClCompile Include="PracticePhoneNumber.cpp" />
+    <ClCompile Include="PracticeSalary.cpp" />
+    <ClCompile Include="SimpleAdder.cpp" />
+    <ClCompile Include="StringIO.cpp" />
+    <ClCompile Include="SumNumber.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainHead.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BasicC++(YoonSeongWoo).rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
