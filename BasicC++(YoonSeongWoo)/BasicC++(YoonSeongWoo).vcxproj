@@ -147,11 +147,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DefaultValue1.cpp" />
+    <ClCompile Include="DefaultValue3.cpp" />
+    <ClCompile Include="FunctionOverloading.cpp" />
     <ClCompile Include="HelllowWorld.cpp" />
+    <ClCompile Include="InlineFunc.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PracticeDefault.cpp" />
     <ClCompile Include="PracticeGugudan.cpp" />
     <ClCompile Include="PracticePhoneNumber.cpp" />
     <ClCompile Include="PracticeSalary.cpp" />
+    <ClCompile Include="PracticeSwap.cpp" />
     <ClCompile Include="SimpleAdder.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="SumNumber.cpp" />

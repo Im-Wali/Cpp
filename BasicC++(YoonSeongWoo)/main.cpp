@@ -1,7 +1,9 @@
+#include <iostream>
 #include "MainHead.h"
 
 int main(void) {
-	PracticeSalary();
+	std::cout << SQUARE(5) << std::endl;
+	std::cout << SQUARE(12) << std::endl;
 
 	return 0;
 }

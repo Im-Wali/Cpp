@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Chapter01">
       <UniqueIdentifier>{5b8e946c-1a41-47f3-b809-41865ce5bae7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Capter02">
+      <UniqueIdentifier>{30bd8c1b-7ea0-4249-9b09-f7e0171c239a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HelllowWorld.cpp">
@@ -40,6 +43,24 @@
       <Filter>소스 파일\Chapter01</Filter>
     </ClCompile>
     <ClCompile Include="PracticeSalary.cpp">
+      <Filter>소스 파일\Chapter01</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionOverloading.cpp">
+      <Filter>소스 파일\Chapter01</Filter>
+    </ClCompile>
+    <ClCompile Include="PracticeSwap.cpp">
+      <Filter>소스 파일\Chapter01</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultValue1.cpp">
+      <Filter>소스 파일\Chapter01</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultValue3.cpp">
+      <Filter>소스 파일\Chapter01</Filter>
+    </ClCompile>
+    <ClCompile Include="PracticeDefault.cpp">
+      <Filter>소스 파일\Chapter01</Filter>
+    </ClCompile>
+    <ClCompile Include="InlineFunc.cpp">
       <Filter>소스 파일\Chapter01</Filter>
     </ClCompile>
   </ItemGroup>
