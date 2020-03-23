@@ -17,9 +17,9 @@ void PracticeSwap(char* char1, char* char2);
 void PracticeSwap(double* double1, double* double2);
 int Addr(int num1 = 1, int num2 = 2);
 int BoxVolume(int length, int width = 1, int height = 1);
+
 //inline int SQUARE(int x) {
 //	return x * x;
 //}
 // 헤더 가드의 끝 
 #endif
-

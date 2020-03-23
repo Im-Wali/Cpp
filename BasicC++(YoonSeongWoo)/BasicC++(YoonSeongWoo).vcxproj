@@ -153,6 +153,9 @@
     <ClCompile Include="HelllowWorld.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="NameAlias.cpp" />
+    <ClCompile Include="NameSp1.cpp" />
+    <ClCompile Include="NameSp3.cpp" />
     <ClCompile Include="PracticeDefault.cpp" />
     <ClCompile Include="PracticeGugudan.cpp" />
     <ClCompile Include="PracticePhoneNumber.cpp" />
@@ -161,6 +164,7 @@
     <ClCompile Include="SimpleAdder.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="SumNumber.cpp" />
+    <ClCompile Include="UsingDcl1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MainHead.h" />
