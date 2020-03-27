@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -147,20 +147,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DataTypeBool.cpp" />
     <ClCompile Include="DefaultValue1.cpp" />
     <ClCompile Include="DefaultValue3.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
     <ClCompile Include="HelllowWorld.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MemMalFree.cpp" />
     <ClCompile Include="NameAlias.cpp" />
     <ClCompile Include="NameSp1.cpp" />
     <ClCompile Include="NameSp3.cpp" />
+    <ClCompile Include="NewDelete.cpp" />
     <ClCompile Include="PracticeDefault.cpp" />
     <ClCompile Include="PracticeGugudan.cpp" />
     <ClCompile Include="PracticePhoneNumber.cpp" />
+    <ClCompile Include="PracticeRefSwap.cpp" />
     <ClCompile Include="PracticeSalary.cpp" />
     <ClCompile Include="PracticeSwap.cpp" />
+    <ClCompile Include="Referen.cpp" />
+    <ClCompile Include="Referen02.cpp" />
+    <ClCompile Include="RefFunction01.cpp" />
+    <ClCompile Include="RefReturnOne.cpp" />
+    <ClCompile Include="RefSwap.cpp" />
     <ClCompile Include="SimpleAdder.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="SumNumber.cpp" />

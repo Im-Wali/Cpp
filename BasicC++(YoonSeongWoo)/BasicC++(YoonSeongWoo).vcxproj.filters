@@ -75,6 +75,27 @@
     <ClCompile Include="NameAlias.cpp">
       <Filter>소스 파일\Chapter01</Filter>
     </ClCompile>
+    <ClCompile Include="DataTypeBool.cpp">
+      <Filter>소스 파일\Capter02</Filter>
+    </ClCompile>
+    <ClCompile Include="Referen.cpp">
+      <Filter>소스 파일\Capter02</Filter>
+    </ClCompile>
+    <ClCompile Include="Referen02.cpp">
+      <Filter>소스 파일\Capter02</Filter>
+    </ClCompile>
+    <ClCompile Include="RefSwap.cpp">
+      <Filter>소스 파일\Capter02</Filter>
+    </ClCompile>
+    <ClCompile Include="RefFunction01.cpp">
+      <Filter>소스 파일\Capter02</Filter>
+    </ClCompile>
+    <ClCompile Include="RefReturnOne.cpp">
+      <Filter>소스 파일\Capter02</Filter>
+    </ClCompile>
+    <ClCompile Include="PracticeRefSwap.cpp">
+      <Filter>소스 파일\Capter02</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
