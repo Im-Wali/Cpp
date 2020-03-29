@@ -8,10 +8,10 @@ char* MakeStrAdr(int len) {
 	return str;
 }
 
-int main(void) {
-	char* str = MakeStrAdr(20);
-	strcpy(str, "I am so happy~");
-	cout << str << endl;
-	free(str);
-	return 0;
-}
+//int main(void) {
+//	char* str = MakeStrAdr(20);
+//	strcpy(str, "I am so happy~");
+//	cout << str << endl;
+//	free(str);
+//	return 0;
+//}

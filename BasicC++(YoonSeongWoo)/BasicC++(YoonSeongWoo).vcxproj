@@ -88,7 +88,7 @@
       </PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -147,36 +147,58 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Classinit.cpp" />
+    <ClCompile Include="Constructor01.cpp" />
     <ClCompile Include="DataTypeBool.cpp" />
     <ClCompile Include="DefaultValue1.cpp" />
     <ClCompile Include="DefaultValue3.cpp" />
+    <ClCompile Include="Destructor.cpp" />
+    <ClCompile Include="Encaps2.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
     <ClCompile Include="HelllowWorld.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MemberInitializer.cpp" />
     <ClCompile Include="MemMalFree.cpp" />
     <ClCompile Include="NameAlias.cpp" />
     <ClCompile Include="NameSp1.cpp" />
     <ClCompile Include="NameSp3.cpp" />
     <ClCompile Include="NewDelete.cpp" />
+    <ClCompile Include="ObjArr.cpp" />
+    <ClCompile Include="ObjPtrArr2.cpp" />
+    <ClCompile Include="PassObjCopycon.cpp" />
+    <ClCompile Include="Point.cpp" />
+    <ClCompile Include="Point2.cpp" />
     <ClCompile Include="PracticeDefault.cpp" />
     <ClCompile Include="PracticeGugudan.cpp" />
+    <ClCompile Include="PracticeNameCard.cpp" />
     <ClCompile Include="PracticePhoneNumber.cpp" />
+    <ClCompile Include="PracticePointer.cpp" />
     <ClCompile Include="PracticeRefSwap.cpp" />
     <ClCompile Include="PracticeSalary.cpp" />
     <ClCompile Include="PracticeSwap.cpp" />
+    <ClCompile Include="PrivateConstructor.cpp" />
+    <ClCompile Include="RacingCar.cpp" />
+    <ClCompile Include="RacingCarClassBase.cpp" />
+    <ClCompile Include="RacingCarFuncAdd.cpp" />
+    <ClCompile Include="Rectangle2.cpp" />
     <ClCompile Include="Referen.cpp" />
     <ClCompile Include="Referen02.cpp" />
     <ClCompile Include="RefFunction01.cpp" />
     <ClCompile Include="RefReturnOne.cpp" />
     <ClCompile Include="RefSwap.cpp" />
+    <ClCompile Include="ShallowCopyError.cpp" />
     <ClCompile Include="SimpleAdder.cpp" />
+    <ClCompile Include="StdCPPFunc.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="SumNumber.cpp" />
     <ClCompile Include="UsingDcl1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MainHead.h" />
+    <ClInclude Include="Point.h" />
+    <ClInclude Include="Point2.h" />
+    <ClInclude Include="Rectangle2.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>

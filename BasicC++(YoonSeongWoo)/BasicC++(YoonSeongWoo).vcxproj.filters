@@ -16,8 +16,17 @@
     <Filter Include="소스 파일\Chapter01">
       <UniqueIdentifier>{5b8e946c-1a41-47f3-b809-41865ce5bae7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Capter02">
+    <Filter Include="소스 파일\Chapter02">
       <UniqueIdentifier>{30bd8c1b-7ea0-4249-9b09-f7e0171c239a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter03">
+      <UniqueIdentifier>{eb5b5bf8-0c47-4054-a36a-a0c8dd8263b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter04">
+      <UniqueIdentifier>{32fe0b3e-7b4d-410d-a9bd-66bf92b7be91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter05">
+      <UniqueIdentifier>{c19cae60-b8d2-482f-a029-540d46107eea}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -76,25 +85,88 @@
       <Filter>소스 파일\Chapter01</Filter>
     </ClCompile>
     <ClCompile Include="DataTypeBool.cpp">
-      <Filter>소스 파일\Capter02</Filter>
+      <Filter>소스 파일\Chapter02</Filter>
     </ClCompile>
     <ClCompile Include="Referen.cpp">
-      <Filter>소스 파일\Capter02</Filter>
+      <Filter>소스 파일\Chapter02</Filter>
     </ClCompile>
     <ClCompile Include="Referen02.cpp">
-      <Filter>소스 파일\Capter02</Filter>
+      <Filter>소스 파일\Chapter02</Filter>
     </ClCompile>
     <ClCompile Include="RefSwap.cpp">
-      <Filter>소스 파일\Capter02</Filter>
+      <Filter>소스 파일\Chapter02</Filter>
     </ClCompile>
     <ClCompile Include="RefFunction01.cpp">
-      <Filter>소스 파일\Capter02</Filter>
+      <Filter>소스 파일\Chapter02</Filter>
     </ClCompile>
     <ClCompile Include="RefReturnOne.cpp">
-      <Filter>소스 파일\Capter02</Filter>
+      <Filter>소스 파일\Chapter02</Filter>
     </ClCompile>
     <ClCompile Include="PracticeRefSwap.cpp">
-      <Filter>소스 파일\Capter02</Filter>
+      <Filter>소스 파일\Chapter02</Filter>
+    </ClCompile>
+    <ClCompile Include="MemMalFree.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NewDelete.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StdCPPFunc.cpp">
+      <Filter>소스 파일\Chapter02</Filter>
+    </ClCompile>
+    <ClCompile Include="RacingCar.cpp">
+      <Filter>소스 파일\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="RacingCarFuncAdd.cpp">
+      <Filter>소스 파일\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="PracticePointer.cpp">
+      <Filter>소스 파일\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="RacingCarClassBase.cpp">
+      <Filter>소스 파일\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>소스 파일\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="Encaps2.cpp">
+      <Filter>소스 파일\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructor01.cpp">
+      <Filter>소스 파일\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="Point2.cpp">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle2.cpp">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="MemberInitializer.cpp">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="PrivateConstructor.cpp">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="Destructor.cpp">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="PracticeNameCard.cpp">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjArr.cpp">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjPtrArr2.cpp">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="Classinit.cpp">
+      <Filter>소스 파일\Chapter05</Filter>
+    </ClCompile>
+    <ClCompile Include="ShallowCopyError.cpp">
+      <Filter>소스 파일\Chapter05</Filter>
+    </ClCompile>
+    <ClCompile Include="PassObjCopycon.cpp">
+      <Filter>소스 파일\Chapter05</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -103,6 +175,15 @@
     </ClInclude>
     <ClInclude Include="MainHead.h">
       <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>소스 파일\Chapter03</Filter>
+    </ClInclude>
+    <ClInclude Include="Point2.h">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle2.h">
+      <Filter>소스 파일\Chapter04</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
