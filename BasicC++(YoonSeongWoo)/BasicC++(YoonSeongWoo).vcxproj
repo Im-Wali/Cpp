@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Classinit.cpp" />
+    <ClCompile Include="ConstObjOver.cpp" />
     <ClCompile Include="Constructor01.cpp" />
     <ClCompile Include="DataTypeBool.cpp" />
     <ClCompile Include="DefaultValue1.cpp" />
@@ -160,6 +161,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MemberInitializer.cpp" />
     <ClCompile Include="MemMalFree.cpp" />
+    <ClCompile Include="MyFriendClass.cpp" />
     <ClCompile Include="NameAlias.cpp" />
     <ClCompile Include="NameSp1.cpp" />
     <ClCompile Include="NameSp3.cpp" />

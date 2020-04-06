@@ -26,15 +26,15 @@ SoSimple SimpleFuncObj(SoSimple ob) {
 	return ob;
 }
 
-int main(void)
-{
-	SoSimple obj(7);
-	
-	cout << "함수 호출 전" << endl;
-
-	SimpleFuncObj(obj);
-
-	cout << "함수 호출 후" << endl;
-
-	return 0;
-}
+//int main(void)
+//{
+//	SoSimple obj(7);
+//	
+//	cout << "함수 호출 전" << endl;
+//
+//	SimpleFuncObj(obj);
+//
+//	cout << "함수 호출 후" << endl;
+//
+//	return 0;
+//}
