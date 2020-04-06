@@ -161,6 +161,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MemberInitializer.cpp" />
     <ClCompile Include="MemMalFree.cpp" />
+    <ClCompile Include="Mutable.cpp" />
     <ClCompile Include="MyFriendClass.cpp" />
     <ClCompile Include="NameAlias.cpp" />
     <ClCompile Include="NameSp1.cpp" />
@@ -191,6 +192,7 @@
     <ClCompile Include="RefSwap.cpp" />
     <ClCompile Include="ShallowCopyError.cpp" />
     <ClCompile Include="SimpleAdder.cpp" />
+    <ClCompile Include="StaticMember.cpp" />
     <ClCompile Include="StdCPPFunc.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="SumNumber.cpp" />

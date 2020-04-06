@@ -41,11 +41,11 @@ void Girl::ShowYourFriendINfo(Boy& frn)
 	cout << "His height : " << frn.height << endl;
 }
 
-int main(void)
-{
-	Boy boy(170);
-	Girl girl("010-1111-1111");
-
-	boy.ShowYourFriendInfo(girl);
-	girl.ShowYourFriendINfo(boy);
-}
+//int main(void)
+//{
+//	Boy boy(170);
+//	Girl girl("010-1111-1111");
+//
+//	boy.ShowYourFriendInfo(girl);
+//	girl.ShowYourFriendINfo(boy);
+//}
