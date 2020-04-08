@@ -156,6 +156,7 @@
     <ClCompile Include="Destructor.cpp" />
     <ClCompile Include="Encaps2.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
+    <ClCompile Include="FunctionVirtualOverride.cpp" />
     <ClCompile Include="HelllowWorld.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
     <ClCompile Include="main.cpp" />
@@ -168,6 +169,7 @@
     <ClCompile Include="NameSp3.cpp" />
     <ClCompile Include="NewDelete.cpp" />
     <ClCompile Include="ObjArr.cpp" />
+    <ClCompile Include="ObjectPointer.cpp" />
     <ClCompile Include="ObjPtrArr2.cpp" />
     <ClCompile Include="PassObjCopycon.cpp" />
     <ClCompile Include="Point.cpp" />
@@ -181,12 +183,14 @@
     <ClCompile Include="PracticeSalary.cpp" />
     <ClCompile Include="PracticeSwap.cpp" />
     <ClCompile Include="PrivateConstructor.cpp" />
+    <ClCompile Include="ProtectedHeri.cpp" />
     <ClCompile Include="RacingCar.cpp" />
     <ClCompile Include="RacingCarClassBase.cpp" />
     <ClCompile Include="RacingCarFuncAdd.cpp" />
     <ClCompile Include="Rectangle2.cpp" />
     <ClCompile Include="Referen.cpp" />
     <ClCompile Include="Referen02.cpp" />
+    <ClCompile Include="ReferenceAttribute.cpp" />
     <ClCompile Include="RefFunction01.cpp" />
     <ClCompile Include="RefReturnOne.cpp" />
     <ClCompile Include="RefSwap.cpp" />
@@ -196,7 +200,9 @@
     <ClCompile Include="StdCPPFunc.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="SumNumber.cpp" />
+    <ClCompile Include="UnivStudentInheri.cpp" />
     <ClCompile Include="UsingDcl1.cpp" />
+    <ClCompile Include="VirtualDestructor.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MainHead.h" />

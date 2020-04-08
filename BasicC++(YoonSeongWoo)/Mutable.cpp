@@ -23,12 +23,12 @@ public :
 	}
 };
 
-int main(void)
-{
-	SoSimple sm(1, 2);
-	sm.ShowSimpleData();
-	sm.CopyToNum2();
-	sm.ShowSimpleData();
-
-	return 0;
-}
+//int main(void)
+//{
+//	SoSimple sm(1, 2);
+//	sm.ShowSimpleData();
+//	sm.CopyToNum2();
+//	sm.ShowSimpleData();
+//
+//	return 0;
+//}
