@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\Chapter08">
       <UniqueIdentifier>{1d7f4f7f-c0c0-43e3-a26e-8998876c8f66}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter09-11">
+      <UniqueIdentifier>{e9265718-eb53-4684-a030-3f83afd4d951}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HelllowWorld.cpp">
@@ -206,6 +209,24 @@
     </ClCompile>
     <ClCompile Include="ReferenceAttribute.cpp">
       <Filter>소스 파일\Chapter08</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiInheri2.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiInheri3.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstOperationOverloading.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="GFunctionOverloading.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="OneOpndOverloading.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstOperationOverloading2.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

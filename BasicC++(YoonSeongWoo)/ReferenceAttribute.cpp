@@ -22,22 +22,22 @@ public :
 	void ThirdFunc() { cout << "ThirdFunc() " << endl; }
 	virtual void SimpleFunc() { cout << "Third's SimpleFunc()" << endl << endl; }
 };
-
-int main(void) {
-	Third obj;
-	obj.FirstFunc();
-	obj.SecondFunc();
-	obj.ThirdFunc();
-	obj.SimpleFunc();
-
-	Second& sref = obj;
-	sref.FirstFunc();
-	sref.SecondFunc();
-	sref.SimpleFunc();
-
-	First& fref = obj;
-	fref.FirstFunc();
-	fref.SimpleFunc();
-
-	return 0;
-}
+//
+//int main(void) {
+//	Third obj;
+//	obj.FirstFunc();
+//	obj.SecondFunc();
+//	obj.ThirdFunc();
+//	obj.SimpleFunc();
+//
+//	Second& sref = obj;
+//	sref.FirstFunc();
+//	sref.SecondFunc();
+//	sref.SimpleFunc();
+//
+//	First& fref = obj;
+//	fref.FirstFunc();
+//	fref.SimpleFunc();
+//
+//	return 0;
+//}

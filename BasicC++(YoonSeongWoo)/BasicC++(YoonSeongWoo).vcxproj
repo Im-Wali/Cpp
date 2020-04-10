@@ -155,13 +155,18 @@
     <ClCompile Include="DefaultValue3.cpp" />
     <ClCompile Include="Destructor.cpp" />
     <ClCompile Include="Encaps2.cpp" />
+    <ClCompile Include="FirstOperationOverloading.cpp" />
+    <ClCompile Include="FirstOperationOverloading2.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
     <ClCompile Include="FunctionVirtualOverride.cpp" />
+    <ClCompile Include="GFunctionOverloading.cpp" />
     <ClCompile Include="HelllowWorld.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MemberInitializer.cpp" />
     <ClCompile Include="MemMalFree.cpp" />
+    <ClCompile Include="MultiInheri2.cpp" />
+    <ClCompile Include="MultiInheri3.cpp" />
     <ClCompile Include="Mutable.cpp" />
     <ClCompile Include="MyFriendClass.cpp" />
     <ClCompile Include="NameAlias.cpp" />
@@ -171,6 +176,7 @@
     <ClCompile Include="ObjArr.cpp" />
     <ClCompile Include="ObjectPointer.cpp" />
     <ClCompile Include="ObjPtrArr2.cpp" />
+    <ClCompile Include="OneOpndOverloading.cpp" />
     <ClCompile Include="PassObjCopycon.cpp" />
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="Point2.cpp" />
