@@ -147,6 +147,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayClass.cpp" />
+    <ClCompile Include="ArrayNewDeleteOverloading.cpp" />
     <ClCompile Include="Classinit.cpp" />
     <ClCompile Include="ConstObjOver.cpp" />
     <ClCompile Include="Constructor01.cpp" />
@@ -161,6 +163,7 @@
     <ClCompile Include="FunctionVirtualOverride.cpp" />
     <ClCompile Include="GFunctionOverloading.cpp" />
     <ClCompile Include="HelllowWorld.cpp" />
+    <ClCompile Include="InheritAssignOperation.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MemberInitializer.cpp" />
@@ -173,6 +176,7 @@
     <ClCompile Include="NameSp1.cpp" />
     <ClCompile Include="NameSp3.cpp" />
     <ClCompile Include="NewDelete.cpp" />
+    <ClCompile Include="NewDeleteOverloading.cpp" />
     <ClCompile Include="ObjArr.cpp" />
     <ClCompile Include="ObjectPointer.cpp" />
     <ClCompile Include="ObjPtrArr2.cpp" />
@@ -180,6 +184,7 @@
     <ClCompile Include="PassObjCopycon.cpp" />
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="Point2.cpp" />
+    <ClCompile Include="PointerOperatorOverloading.cpp" />
     <ClCompile Include="PracticeDefault.cpp" />
     <ClCompile Include="PracticeGugudan.cpp" />
     <ClCompile Include="PracticeNameCard.cpp" />
@@ -202,6 +207,8 @@
     <ClCompile Include="RefSwap.cpp" />
     <ClCompile Include="ShallowCopyError.cpp" />
     <ClCompile Include="SimpleAdder.cpp" />
+    <ClCompile Include="SmartPointer.cpp" />
+    <ClCompile Include="SortFunctor.cpp" />
     <ClCompile Include="StaticMember.cpp" />
     <ClCompile Include="StdCPPFunc.cpp" />
     <ClCompile Include="StringIO.cpp" />

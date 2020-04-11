@@ -228,6 +228,27 @@
     <ClCompile Include="FirstOperationOverloading2.cpp">
       <Filter>소스 파일\Chapter09-11</Filter>
     </ClCompile>
+    <ClCompile Include="InheritAssignOperation.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayClass.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="NewDeleteOverloading.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayNewDeleteOverloading.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerOperatorOverloading.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartPointer.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="SortFunctor.cpp">
+      <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
