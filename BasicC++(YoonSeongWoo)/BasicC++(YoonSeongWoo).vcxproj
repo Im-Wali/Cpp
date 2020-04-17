@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AddFunctionTemplate.cpp" />
     <ClCompile Include="ArrayClass.cpp" />
     <ClCompile Include="ArrayNewDeleteOverloading.cpp" />
     <ClCompile Include="Classinit.cpp" />
@@ -162,6 +163,7 @@
     <ClCompile Include="FunctionOverloading.cpp" />
     <ClCompile Include="FunctionVirtualOverride.cpp" />
     <ClCompile Include="GFunctionOverloading.cpp" />
+    <ClCompile Include="HandingExceptionTryCatch.cpp" />
     <ClCompile Include="HelllowWorld.cpp" />
     <ClCompile Include="InheritAssignOperation.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
@@ -184,6 +186,7 @@
     <ClCompile Include="PassObjCopycon.cpp" />
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="Point2.cpp" />
+    <ClCompile Include="PointClassTemplate.cpp" />
     <ClCompile Include="PointerOperatorOverloading.cpp" />
     <ClCompile Include="PracticeDefault.cpp" />
     <ClCompile Include="PracticeGugudan.cpp" />
@@ -193,6 +196,7 @@
     <ClCompile Include="PracticeRefSwap.cpp" />
     <ClCompile Include="PracticeSalary.cpp" />
     <ClCompile Include="PracticeSwap.cpp" />
+    <ClCompile Include="PrimitiveFunctionTemplate.cpp" />
     <ClCompile Include="PrivateConstructor.cpp" />
     <ClCompile Include="ProtectedHeri.cpp" />
     <ClCompile Include="RacingCar.cpp" />
@@ -209,8 +213,10 @@
     <ClCompile Include="SimpleAdder.cpp" />
     <ClCompile Include="SmartPointer.cpp" />
     <ClCompile Include="SortFunctor.cpp" />
+    <ClCompile Include="SpecialFunctionTemplate.cpp" />
     <ClCompile Include="StaticMember.cpp" />
     <ClCompile Include="StdCPPFunc.cpp" />
+    <ClCompile Include="STDString.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="SumNumber.cpp" />
     <ClCompile Include="UnivStudentInheri.cpp" />

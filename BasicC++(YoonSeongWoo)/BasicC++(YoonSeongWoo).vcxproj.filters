@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\Chapter09-11">
       <UniqueIdentifier>{e9265718-eb53-4684-a030-3f83afd4d951}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter12-15">
+      <UniqueIdentifier>{d4e638d1-a284-4b05-a98e-7452f4023316}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HelllowWorld.cpp">
@@ -248,6 +251,24 @@
     </ClCompile>
     <ClCompile Include="SortFunctor.cpp">
       <Filter>소스 파일\Chapter09-11</Filter>
+    </ClCompile>
+    <ClCompile Include="STDString.cpp">
+      <Filter>소스 파일\Chapter12-15</Filter>
+    </ClCompile>
+    <ClCompile Include="AddFunctionTemplate.cpp">
+      <Filter>소스 파일\Chapter12-15</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimitiveFunctionTemplate.cpp">
+      <Filter>소스 파일\Chapter12-15</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecialFunctionTemplate.cpp">
+      <Filter>소스 파일\Chapter12-15</Filter>
+    </ClCompile>
+    <ClCompile Include="PointClassTemplate.cpp">
+      <Filter>소스 파일\Chapter12-15</Filter>
+    </ClCompile>
+    <ClCompile Include="HandingExceptionTryCatch.cpp">
+      <Filter>소스 파일\Chapter12-15</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

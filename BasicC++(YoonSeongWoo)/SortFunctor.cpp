@@ -78,20 +78,20 @@ public :
 	}
 };
 
-int main(void)
-{
-	DataStorage storage(5);
-	storage.AddData(40);
-	storage.AddData(30);
-	storage.AddData(50);
-	storage.AddData(20);
-	storage.AddData(10);
-
-	storage.SortData(AscendingSort());
-	storage.ShowAllData();
-
-	storage.SortData(DescendingSort());
-	storage.ShowAllData();
-
-	return 0;
-}
+//int main(void)
+//{
+//	DataStorage storage(5);
+//	storage.AddData(40);
+//	storage.AddData(30);
+//	storage.AddData(50);
+//	storage.AddData(20);
+//	storage.AddData(10);
+//
+//	storage.SortData(AscendingSort());
+//	storage.ShowAllData();
+//
+//	storage.SortData(DescendingSort());
+//	storage.ShowAllData();
+//
+//	return 0;
+//}
